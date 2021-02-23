@@ -1,0 +1,43 @@
+.nav {
+	display: inline-flex;
+	margin: 10px;
+	padding: 10px;
+}
+.nav li {
+	list-style-type: none;
+	color: gray;
+	text-decoration: none;
+	display: inline;
+    color: #fff;
+    padding: 15px 10px;
+}
+.nav li a {
+	text-decoration: none;
+	color: grey;
+}
+.border {
+	background-color: #333;
+    color: white;
+    margin: 5px;
+}
+.block {
+	margin: 100px;
+}
+.container {
+	display: flex;
+}
+.process {
+    width: 370px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+}
+.price {
+    width: 370px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+}
+.people {
+    width: 370px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+}
