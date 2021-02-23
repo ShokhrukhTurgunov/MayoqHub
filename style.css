@@ -25,6 +25,10 @@
     color: white;
     margin: 5px;
 }
+.border:hover {
+	background-color: #0d0d0c;
+	color: white;
+}	
 .block {
 	margin: 100px;
 }
