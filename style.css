@@ -1,5 +1,7 @@
 .nav {
-	display: inline-flex;
+	display: flex;
+	flex-direction: row;
+	justife-content: space-between;
 	margin: 10px;
 	padding: 10px;
 }
@@ -8,8 +10,9 @@
 	color: gray;
 	text-decoration: none;
 	display: inline;
-    color: #fff;
-    padding: 15px 10px;
+    	color: #fff;
+    	padding: 15px 10px;
+	text-transform: uppercase;
 }
 .nav li a {
 	text-decoration: none;
