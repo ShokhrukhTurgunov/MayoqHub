@@ -18,6 +18,8 @@
 	text-decoration: none;
 	color: grey;
 }
+.nav li a:hover {
+	color: #424240;
 .border {
 	background-color: #333;
     color: white;
